@@ -19,4 +19,5 @@ For this analysis we will be using the shopping data set found in the Resources 
 4. Use K-means (An unsupervised learning algorithm used to identify and solve clustering issues)
 5. Trial and Error of Finding Centroids
 6. Elbow Curve
-7. 
+7. Manage Data Features
+8. Hierarchical Clustering
