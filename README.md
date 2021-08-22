@@ -21,3 +21,14 @@ For this analysis we will be using the shopping data set found in the Resources 
 6. Elbow Curve
 7. Manage Data Features
 8. Hierarchical Clustering
+
+## Visuals
+![3D-Scatter_code.png](https://github.com/cynmmarin/Cryptocurrencies/blob/d67fbc95bb939b5ca4cc276e2f86209dc96f3be3/Images/3D-Scatter_code.png)
+
+![3D-Scatter.png](https://github.com/cynmmarin/Cryptocurrencies/blob/d67fbc95bb939b5ca4cc276e2f86209dc96f3be3/Images/3D-Scatter.png)
+
+![elbow_curve.png](https://github.com/cynmmarin/Cryptocurrencies/blob/d67fbc95bb939b5ca4cc276e2f86209dc96f3be3/Images/elbow_curve.png)
+
+![hvplot.scatter.png](https://github.com/cynmmarin/Cryptocurrencies/blob/d67fbc95bb939b5ca4cc276e2f86209dc96f3be3/Images/hvplot.scatter.png)
+
+
